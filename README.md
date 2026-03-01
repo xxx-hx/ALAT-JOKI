@@ -38,4 +38,4 @@ Detail panduan langkah demi langkah sudah tersedia di dalam paket aplikasi (`PAN
 3. Klik Sync & Happy Executing! 🚀🏁
 
 ---
-© 2026 Tools Executor Team. Managed via Vercel & Google Sheets API.
+© 2026 Hxxn
